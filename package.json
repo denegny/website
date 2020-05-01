@@ -24,7 +24,7 @@
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.5.0",
-    "snyk": "^1.290.1"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "prettier": "^1.16.4"
